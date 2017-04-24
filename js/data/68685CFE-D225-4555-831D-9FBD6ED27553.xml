@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("1.1.2.1", "1", "Actas", "EARoot/EA1/EA1/EA2/EA17.html", "4.png", "", "", "{07B28297-7D92-4f7d-A828-9AB0DBAE2985}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.2", "1", "agendas", "EARoot/EA1/EA1/EA2/EA18.html", "4.png", "", "", "{2983E6B2-3651-4a06-8ADD-4EB8F5A7AB61}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.3", "1", "areas academicas", "EARoot/EA1/EA1/EA2/EA19.html", "4.png", "", "", "{C922073E-6A7F-445d-A7A4-B748CA7F03D3}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.4", "1", "areas_no_academicas", "EARoot/EA1/EA1/EA2/EA20.html", "4.png", "", "", "{BB567171-2798-46d3-8792-4F7EB38DF982}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.5", "1", "calendarizacion", "EARoot/EA1/EA1/EA2/EA21.html", "4.png", "", "", "{B3BC6F49-CFEC-451d-9739-9956D3596109}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.6", "1", "configuración", "EARoot/EA1/EA1/EA2/EA22.html", "4.png", "", "", "{421CA4FE-A50F-48ef-91CB-D603CD59785B}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.7", "1", "Configuracion de Rutas", "EARoot/EA1/EA1/EA2/EA23.html", "4.png", "", "", "{53DA5C3E-F5D9-49c8-83CF-168D1D5F8556}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.8", "1", "facultad", "EARoot/EA1/EA1/EA2/EA24.html", "4.png", "", "", "{DB6B1417-A76C-42a8-B93A-2ABC51889FD2}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.9", "1", "filial", "EARoot/EA1/EA1/EA2/EA25.html", "4.png", "", "", "{B5BE36A4-747C-4504-A329-A38CD4B60DFD}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.10", "1", "Instituciones", "EARoot/EA1/EA1/EA2/EA26.html", "4.png", "", "", "{5BF3B987-EA7C-47b1-9A15-E2A89D38F476}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.11", "1", "login", "EARoot/EA1/EA1/EA2/EA27.html", "4.png", "", "", "{04C5094B-1551-49b5-9B77-28867A5F98F3}", "Package");
+tocTab[tocTab.length] = new Array("1.1.2.12", "1", "seguimiento", "EARoot/EA1/EA1/EA2/EA28.html", "4.png", "", "", "{4A8E6DAE-BC4B-4922-BA20-15F9CDE9E95D}", "Package");

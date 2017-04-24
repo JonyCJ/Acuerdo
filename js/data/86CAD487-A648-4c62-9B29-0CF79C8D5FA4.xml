@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.2.2.2:1", "", "Diagrama de clases detallado", "EARoot/EA1/EA2/EA2/EA2/EA127.html", "175.png", "13", "0", "", "Logical diagram0","{187E0BD8-EBBC-474c-A75E-713694844475}");
+tocTab[tocTab.length] = new Array("1.2.2.2:2", "", "ClaseDeSoftware", "EARoot/EA1/EA2/EA2/EA2/EA129.html", "5.png", "28", "0", "", "Class0","{1E58E0FE-EC3B-4e41-8D53-112726A2D77B}");
+tocTab[tocTab.length] = new Array("1.2.2.2.1", "", "models", "EARoot/EA1/EA2/EA2/EA2/EA130.html", "4.png", "", "", "{5FFFCBA8-4E8B-4ebe-A2E6-3C4EEB2AD8C5}", "Package");
+tocTab[tocTab.length] = new Array("1.2.2.2.2", "", "views", "EARoot/EA1/EA2/EA2/EA2/EA131.html", "4.png", "", "", "{3892AE9E-D00F-4b13-9B0F-EDC819491C3F}", "Package");

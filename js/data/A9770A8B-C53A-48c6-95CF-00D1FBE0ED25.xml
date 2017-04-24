@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("1.2.2.1.1:1", "", "Proceso de negocio", "EARoot/EA1/EA2/EA2/EA1/EA1/EA118.html", "180.png", "15", "0", "", "Use Case diagram0","{FF4F753E-BCFA-44b6-9CA9-7A3A755193A2}");
+tocTab[tocTab.length] = new Array("1.2.2.1.1:2", "", "&lt;&lt;business process&gt;&gt; Escenario de negocio 1", "EARoot/EA1/EA2/EA2/EA1/EA1/EA120.html", "7.png", "37", "0", "", "UseCase0","{7AC39452-D5C2-4500-A2F9-F9A1FDE3ED5A}");
+tocTab[tocTab.length] = new Array("1.2.2.1.1:3", "", "&lt;&lt;business process&gt;&gt;Escenario de negocio2", "EARoot/EA1/EA2/EA2/EA1/EA1/EA121.html", "7.png", "38", "0", "", "UseCase0","{1A799155-98D4-4f30-9388-D01C0A99E47E}");
+tocTab[tocTab.length] = new Array("1.2.2.1.1.1", "", "Paquete de escenario de negocio", "EARoot/EA1/EA2/EA2/EA1/EA1/EA122.html", "4.png", "", "", "{000D84D9-417E-4a98-B5E0-FA477DF572F9}", "Package");
